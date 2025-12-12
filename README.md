@@ -1,4 +1,4 @@
-# [👶 Fetal Health Classification (Cenin Sağlığı Sınıflandırması)](https://github.com/fizmr/fetal-health-classification)
+# [👶 Fetal Health Classification (Cenin Sağlığı Sınıflandırması)](https://github.com/fizmr/fetal_health_classification)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Model_Training-orange)
