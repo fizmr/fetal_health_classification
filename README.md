@@ -17,10 +17,12 @@ Before training the models, I analyzed the dataset to understand correlations an
 
 **1. Correlation Heatmap:**
 *(Shows how features relate to each other and the target variable)*
+
 ![Heatmap](images/heatmap.png)
 
 **2. Target Class Distribution:**
 *(Shows the imbalance between Normal, Suspect, and Pathological classes)*
+
 ![Class Distribution](images/sutun.png)
 
 ### 🧠 Models & Performance
@@ -75,14 +77,6 @@ Modelleri eğitmeden önce veri setindeki ilişkileri ve dağılımları inceled
 * **Doğruluk:** **%90.14**
 * Karmaşık ilişkileri yakalayarak en yüksek başarıyı bu model gösterdi.
 ![Decision Tree Graph](images/DT.png)
-
----
-
-### 🏆 Final Result: Confusion Matrix
-The confusion matrix of the champion model (**Decision Tree**):
-*(Kazanan modelin Karmaşıklık Matrisi)*
-
-![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
