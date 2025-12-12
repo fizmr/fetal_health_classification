@@ -36,12 +36,12 @@ I trained three different models. Here are the results:
 #### 2. K-Nearest Neighbors (KNN)
 * **Accuracy:** %87.09
 * Below is the performance visualization for KNN:
-![KNN Graph](images/KNN.png)
+* ![KNN Graph](images/KNN.png)
 
 #### 3. Decision Tree (Best Model 🏆)
 * **Accuracy:** **%90.14**
 * The Decision Tree performed the best by capturing non-linear relationships.
-![Decision Tree Graph](images/DT.png)
+* ![Decision Tree Graph](images/DT.png)
 
 ---
 
