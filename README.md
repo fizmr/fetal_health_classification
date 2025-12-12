@@ -71,7 +71,7 @@ Modelleri eğitmeden önce veri setindeki ilişkileri ve dağılımları inceled
 #### 2. K-En Yakın Komşu (KNN)
 * **Doğruluk:** %87.09
 * KNN modeline ait performans grafiği aşağıdadır:
-![KNN Graph](images/knn_graph.png)
+![KNN Graph](images/KNN.png)
 
 #### 3. Karar Ağacı (En İyi Model 🏆)
 * **Doğruluk:** **%90.14**
